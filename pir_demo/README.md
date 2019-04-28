@@ -1,4 +1,4 @@
-#PIR DEMO#
+# PIR DEMO #
 For this first project, we are just going to mess with the PIR(Passive Infrared Receiver) sensor. I have provided a pinout for the Arduino, and some sample code to get started with receiving input from the sensor and printing to the Serial Monitor.
 
 ## Components needed: ##
